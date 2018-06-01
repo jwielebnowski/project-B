@@ -1,0 +1,4 @@
+[submodule "library-A"]
+	path = library-A
+	url = git@github.com:jwielebnowski/library-A.git
+	branch = v0.0.2
