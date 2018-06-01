@@ -1,0 +1,4 @@
+[submodule "smu-straylight"]
+	path = smu-straylight
+	url = git@github.com:calgaryscientific/smu-straylight.git
+	branch = develop-cast
